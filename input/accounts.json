@@ -1,0 +1,140 @@
+[
+  {
+    "email": "ana@example.com",
+    "password": "parolaAna",
+    "points": 23220,
+    "games": [
+      
+    ]
+  },
+  {
+    "email": "mihai@example.com",
+    "password": "parolaMihai",
+    "points": 45,
+    "games": [
+      3,
+      4
+    ]
+  },
+  {
+    "email": "ioana@example.com",
+    "password": "parolaIoana",
+    "points": 300,
+    "games": [
+      5
+    ]
+  },
+  {
+    "email": "george@example.com",
+    "password": "parolaGeorge",
+    "points": 75,
+    "games": [
+      6
+    ]
+  },
+  {
+    "email": "andrei@example.com",
+    "password": "parolaAndrei",
+    "points": 10,
+    "games": [
+      8
+    ]
+  },
+  {
+    "email": "elena@example.com",
+    "password": "parolaElena",
+    "points": 0,
+    "games": [
+      9
+    ]
+  },
+  {
+    "email": "roxana@example.com",
+    "password": "parolaRoxana",
+    "points": 210,
+    "games": [
+      10,
+      11
+    ]
+  },
+  {
+    "email": "vlad@example.com",
+    "password": "parolaVlad",
+    "points": 15,
+    "games": [
+      12
+    ]
+  },
+  {
+    "email": "CheckScenario@example.com",
+    "password": "parolaCheckScenario",
+    "points": 0,
+    "games": [
+      
+    ]
+  },
+  {
+    "email": "CheckMateScenario@example.com",
+    "password": "parolaCheckMateScenario",
+    "points": 0,
+    "games": [
+      101
+    ]
+  },
+  {
+    "email": "ForcedCheckMateScenario@example.com",
+    "password": "parolaForcedCheckMateScenario",
+    "points": 0,
+    "games": [
+      102
+    ]
+  },
+  {
+    "email": "IllegalMoveScenario@example.com",
+    "password": "parolaIllegalMoveScenario",
+    "points": 0,
+    "games": [
+      103
+    ]
+  },
+  {
+    "email": "DrawRepetitionScenario@example.com",
+    "password": "parolaDrawRepetitionScenario",
+    "points": 0,
+    "games": [
+      104
+    ]
+  },
+  {
+    "email": "PromotionScenario@example.com",
+    "password": "parolaPromotionScenario",
+    "points": 0,
+    "games": [
+      105
+    ]
+  },
+  {
+    "email": "ResumeConsistencyScenario@example.com",
+    "password": "parolaResumeConsistencyScenario",
+    "points": 0,
+    "games": [
+      106
+    ]
+  },
+  {
+    "email": "andrei_bazatul@example.com",
+    "password": "parolaAndreiBazatul",
+    "points": 0,
+    "games": [
+      
+    ]
+  },
+  {
+    "email": "test@test.com",
+    "password": "test",
+    "points": 620,
+    "games": [
+      
+    ]
+  }
+]

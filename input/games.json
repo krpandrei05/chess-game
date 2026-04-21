@@ -1,0 +1,1999 @@
+[
+  {
+    "id": 3,
+    "players": [
+      {
+        "email": "mihai@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "BLACK",
+    "board": [
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "A1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "A2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "B1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "B2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "C1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "C2"
+      },
+      {
+        "type": "Q",
+        "color": "WHITE",
+        "position": "D1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "D2"
+      },
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "E4"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "E5"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "F1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "F2"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "G2"
+      },
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "H1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "H2"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "A7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "A8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "B7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "C6"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "C7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "C8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "D7"
+      },
+      {
+        "type": "Q",
+        "color": "BLACK",
+        "position": "D8"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "E8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "F7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "F8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "G7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "G8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "H7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "H8"
+      }
+    ],
+    "moves": [
+      {
+        "playerColor": "WHITE",
+        "from": "E2",
+        "to": "E4"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "E7",
+        "to": "E5"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "G1",
+        "to": "F3"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "B8",
+        "to": "C6"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "F3",
+        "to": "E5"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "players": [
+      {
+        "email": "mihai@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "BLACK",
+    "board": [
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "A1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "A2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "B1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "B2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "C1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "C2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "C4"
+      },
+      {
+        "type": "Q",
+        "color": "WHITE",
+        "position": "D1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "D2"
+      },
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "E4"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "F2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "F3"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "G2"
+      },
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "H1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "H2"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "A7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "A8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "B7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "C6"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "C7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "C8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "D7"
+      },
+      {
+        "type": "Q",
+        "color": "BLACK",
+        "position": "D8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "E5"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "E8"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "F6"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "F7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "F8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "G7"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "H7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "H8"
+      }
+    ],
+    "moves": [
+      {
+        "playerColor": "WHITE",
+        "from": "E2",
+        "to": "E4"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "E7",
+        "to": "E5"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "G1",
+        "to": "F3"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "B8",
+        "to": "C6"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "F1",
+        "to": "C4"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "G8",
+        "to": "F6"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "players": [
+      {
+        "email": "ioana@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "BLACK",
+    "board": [
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "A1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "A2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "B1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "B2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "C1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "C2"
+      },
+      {
+        "type": "Q",
+        "color": "WHITE",
+        "position": "D1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "D2"
+      },
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "E2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "F1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "F2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "G1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "G2"
+      },
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "H1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "H2"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "A7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "A8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "B7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "B8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "C7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "C8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "D7"
+      },
+      {
+        "type": "Q",
+        "color": "BLACK",
+        "position": "D8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "E7"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "E8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "F7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "F8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "G7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "G8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "H7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "H8"
+      }
+    ],
+    "moves": [
+      
+    ]
+  },
+  {
+    "id": 6,
+    "players": [
+      {
+        "email": "george@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "BLACK",
+    "board": [
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "A1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "A2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "B1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "B2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "C1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "C2"
+      },
+      {
+        "type": "Q",
+        "color": "WHITE",
+        "position": "D1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "D2"
+      },
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "E4"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "E5"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "F1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "F2"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "G2"
+      },
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "H1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "H2"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "A7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "A8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "B7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "C6"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "C7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "C8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "D7"
+      },
+      {
+        "type": "Q",
+        "color": "BLACK",
+        "position": "D8"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "E8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "F7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "F8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "G7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "G8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "H7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "H8"
+      }
+    ],
+    "moves": [
+      {
+        "playerColor": "WHITE",
+        "from": "E2",
+        "to": "E4"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "E7",
+        "to": "E5"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "G1",
+        "to": "F3"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "B8",
+        "to": "C6"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "F3",
+        "to": "E5"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "players": [
+      {
+        "email": "andrei@example.com",
+        "color": "BLACK"
+      },
+      {
+        "email": "computer",
+        "color": "WHITE"
+      }
+    ],
+    "currentPlayerColor": "BLACK",
+    "board": [
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "A1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "A2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "B1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "B2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "C1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "C2"
+      },
+      {
+        "type": "Q",
+        "color": "WHITE",
+        "position": "D1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "D2"
+      },
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "E4"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "E5"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "F1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "F2"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "G2"
+      },
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "H1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "H2"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "A7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "A8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "B7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "C6"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "C7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "C8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "D7"
+      },
+      {
+        "type": "Q",
+        "color": "BLACK",
+        "position": "D8"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "E8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "F7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "F8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "G7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "G8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "H7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "H8"
+      }
+    ],
+    "moves": [
+      {
+        "playerColor": "WHITE",
+        "from": "E2",
+        "to": "E4"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "E7",
+        "to": "E5"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "G1",
+        "to": "F3"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "B8",
+        "to": "C6"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "F3",
+        "to": "E5"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "players": [
+      {
+        "email": "elena@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "BLACK",
+    "board": [
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "A1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "A2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "B1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "B2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "C1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "C2"
+      },
+      {
+        "type": "Q",
+        "color": "WHITE",
+        "position": "D1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "D2"
+      },
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "E2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "F1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "F2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "G1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "G2"
+      },
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "H1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "H2"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "A7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "A8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "B7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "B8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "C7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "C8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "D7"
+      },
+      {
+        "type": "Q",
+        "color": "BLACK",
+        "position": "D8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "E7"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "E8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "F7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "F8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "G7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "G8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "H7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "H8"
+      }
+    ],
+    "moves": [
+      
+    ]
+  },
+  {
+    "id": 10,
+    "players": [
+      {
+        "email": "roxana@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "BLACK",
+    "board": [
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "A1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "A2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "B1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "B2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "C1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "C2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "C4"
+      },
+      {
+        "type": "Q",
+        "color": "WHITE",
+        "position": "D1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "D2"
+      },
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "E4"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "F2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "F3"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "G2"
+      },
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "H1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "H2"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "A7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "A8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "B7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "C6"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "C7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "C8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "D7"
+      },
+      {
+        "type": "Q",
+        "color": "BLACK",
+        "position": "D8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "E5"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "E8"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "F6"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "F7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "F8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "G7"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "H7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "H8"
+      }
+    ],
+    "moves": [
+      {
+        "playerColor": "WHITE",
+        "from": "E2",
+        "to": "E4"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "E7",
+        "to": "E5"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "G1",
+        "to": "F3"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "B8",
+        "to": "C6"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "F1",
+        "to": "C4"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "G8",
+        "to": "F6"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "players": [
+      {
+        "email": "roxana@example.com",
+        "color": "BLACK"
+      },
+      {
+        "email": "computer",
+        "color": "WHITE"
+      }
+    ],
+    "currentPlayerColor": "BLACK",
+    "board": [
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "A1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "A2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "B1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "B2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "C1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "C2"
+      },
+      {
+        "type": "Q",
+        "color": "WHITE",
+        "position": "D1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "D2"
+      },
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "E4"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "E5"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "F1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "F2"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "G2"
+      },
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "H1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "H2"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "A7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "A8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "B7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "C6"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "C7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "C8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "D7"
+      },
+      {
+        "type": "Q",
+        "color": "BLACK",
+        "position": "D8"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "E8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "F7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "F8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "G7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "G8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "H7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "H8"
+      }
+    ],
+    "moves": [
+      {
+        "playerColor": "WHITE",
+        "from": "E2",
+        "to": "E4"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "E7",
+        "to": "E5"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "G1",
+        "to": "F3"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "B8",
+        "to": "C6"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "F3",
+        "to": "E5"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "players": [
+      {
+        "email": "vlad@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "BLACK",
+    "board": [
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "A1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "A2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "B1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "B2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "C1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "C2"
+      },
+      {
+        "type": "Q",
+        "color": "WHITE",
+        "position": "D1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "D2"
+      },
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "E2"
+      },
+      {
+        "type": "B",
+        "color": "WHITE",
+        "position": "F1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "F2"
+      },
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "G1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "G2"
+      },
+      {
+        "type": "R",
+        "color": "WHITE",
+        "position": "H1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "H2"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "A7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "A8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "B7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "B8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "C7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "C8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "D7"
+      },
+      {
+        "type": "Q",
+        "color": "BLACK",
+        "position": "D8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "E7"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "E8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "F7"
+      },
+      {
+        "type": "B",
+        "color": "BLACK",
+        "position": "F8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "G7"
+      },
+      {
+        "type": "N",
+        "color": "BLACK",
+        "position": "G8"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "H7"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "H8"
+      }
+    ],
+    "moves": [
+      
+    ]
+  },
+  {
+    "id": 101,
+    "players": [
+      {
+        "email": "CheckMateScenario@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "WHITE",
+    "board": [
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "Q",
+        "color": "WHITE",
+        "position": "H5"
+      },
+      {
+        "type": "P",
+        "color": "BLACK",
+        "position": "G7"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "H8"
+      }
+    ],
+    "moves": [
+      
+    ]
+  },
+  {
+    "id": 102,
+    "players": [
+      {
+        "email": "ForcedCheckMateScenario@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "WHITE",
+    "board": [
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "A1"
+      },
+      {
+        "type": "Q",
+        "color": "BLACK",
+        "position": "B2"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "C3"
+      }
+    ],
+    "moves": [
+      
+    ]
+  },
+  {
+    "id": 103,
+    "players": [
+      {
+        "email": "IllegalMoveScenario@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "WHITE",
+    "board": [
+      {
+        "type": "N",
+        "color": "WHITE",
+        "position": "B1"
+      },
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "R",
+        "color": "BLACK",
+        "position": "E2"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "E8"
+      }
+    ],
+    "moves": [
+      
+    ]
+  },
+  {
+    "id": 104,
+    "players": [
+      {
+        "email": "DrawRepetitionScenario@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "WHITE",
+    "board": [
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "G1"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "G8"
+      }
+    ],
+    "moves": [
+      {
+        "playerColor": "WHITE",
+        "from": "G1",
+        "to": "H1"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "G8",
+        "to": "H8"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "H1",
+        "to": "G1"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "H8",
+        "to": "G8"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "G1",
+        "to": "H1"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "G8",
+        "to": "H8"
+      },
+      {
+        "playerColor": "WHITE",
+        "from": "H1",
+        "to": "G1"
+      },
+      {
+        "playerColor": "BLACK",
+        "from": "H8",
+        "to": "G8"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "players": [
+      {
+        "email": "PromotionScenario@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "WHITE",
+    "board": [
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "P",
+        "color": "WHITE",
+        "position": "E7"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "H8"
+      }
+    ],
+    "moves": [
+      
+    ]
+  },
+  {
+    "id": 106,
+    "players": [
+      {
+        "email": "ResumeConsistencyScenario@example.com",
+        "color": "WHITE"
+      },
+      {
+        "email": "computer",
+        "color": "BLACK"
+      }
+    ],
+    "currentPlayerColor": "WHITE",
+    "board": [
+      {
+        "type": "Q",
+        "color": "WHITE",
+        "position": "D1"
+      },
+      {
+        "type": "K",
+        "color": "WHITE",
+        "position": "E1"
+      },
+      {
+        "type": "K",
+        "color": "BLACK",
+        "position": "E8"
+      }
+    ],
+    "moves": [
+      {
+        "playerColor": "WHITE",
+        "from": "D1",
+        "to": "H5"
+      }
+    ]
+  }
+]

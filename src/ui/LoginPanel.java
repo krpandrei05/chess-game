@@ -62,7 +62,7 @@ public class LoginPanel extends JPanel {
     }
 
     public JPanel leftPanel() {
-        BackgroundPanel left = new BackgroundPanel("assets/photos/Screenshot 2026-01-06 112838.png");
+        BackgroundPanel left = new BackgroundPanel("assets/photos/background.png");
         left.setLayout(new BorderLayout());
         left.setOpaque(false);
 

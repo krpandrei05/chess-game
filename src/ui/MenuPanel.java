@@ -65,7 +65,7 @@ public class MenuPanel extends JPanel {
 
         setLayout(new BorderLayout());
 
-        BackgroundPanel background = new BackgroundPanel("assets/photos/Screenshot 2026-01-06 112838.png");
+        BackgroundPanel background = new BackgroundPanel("assets/photos/background.png");
         background.setLayout(new BorderLayout());
 
         JPanel overlay = new JPanel(new BorderLayout()) {
